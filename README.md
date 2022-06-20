@@ -28,6 +28,9 @@ Our application is deployed using Heroku.
   ## Built
   Our app is built with 
   - IndexedDB (Add Offline Persistence)
+  - Node.js
+  - MongoDB Atlas
+  - Heroku
   
   ## Usage
   As the developer of this app, all user information will not be collected. 
@@ -42,6 +45,8 @@ Our application is deployed using Heroku.
   - [Contact Me](mailto:cw3211@columbia.edu)
   ## Deployment
   - [Link to deployed app](https://budget-tracker-progressive.herokuapp.com/)
+
+  - ![Screenshot of the app](public/assets/screencapture-budget-tracker-progressive-herokuapp-2022-06-20-12_50_31.png)
 
 
 
