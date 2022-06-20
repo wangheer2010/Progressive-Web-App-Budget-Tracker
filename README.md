@@ -8,9 +8,8 @@
   - [Built With](#built)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
-  - [Video](#video)
+  - [Deployment](#deployment)
 
   ## Description
     
@@ -38,13 +37,11 @@ Our application is deployed using Heroku.
   ## Contributing
   I welcome all developers that are interested in this project to add more fancy features to the app! Feel free to contact me and welcome to follow me.
 
-  ## Tests
-  Our tests are performed in terminal and details of the steps to take are shown in the video below
   ## Questions
   - [My git Repo](https://github.com/wangheer2010)
   - [Contact Me](mailto:cw3211@columbia.edu)
-  ## Video
-  - [My Video Instruction]()
+  ## Deployment
+  - [Link to deployed app](https://budget-tracker-progressive.herokuapp.com/)
 
 
 
