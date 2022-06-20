@@ -48,11 +48,7 @@ Our application is deployed using Heroku.
 
 
 
-Before you start, clone the [starter code](https://github.com/coding-boot-camp/symmetrical-bassoon).
 
-> **On the Job:** When web developers are working on a feature request or trying to kill a bug, they rarely have all the information they need to solve the task in front of them. Being a successful developer requires you to combine knowledge that you’ve picked up from different applications you’ve worked on in the past to formulate a solution.
-> 
-> This Challenge will ask you to combine several tasks that you’ve learned over this module and the previous one to add offline functionality to an existing application. We’ve outlined how you can achieve this in the Getting Started section below.
 
 
 ### Offline Functionality
